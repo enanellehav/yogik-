@@ -1,6 +1,6 @@
 ## PROJECT #1 TODO: Meet You.
 
-[Link to live site]( https://go.xyzcpa.com/aff_c?oid=622&aid=2445)
+[Link to live site]( http://kamrat2020.blogspot.com)
 Login details - shelley@ga.co password: chicken
 
 ## Team members
